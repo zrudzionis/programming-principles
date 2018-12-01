@@ -1,18 +1,6 @@
 # List of programming principles
 
-**SOLID**:
-- [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
-- [Open/closed principle](https://en.wikipedia.org/wiki/Open/closed_principle)
-- [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-- [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
-- [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-
-**Object oriented design:**
-- [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-- [Inversion of control](https://en.wikipedia.org/wiki/Inversion_of_control)
-- [Principle of least knowledge (Law of Demeter)](https://en.wikipedia.org/wiki/Law_of_Demeter)
-
-**Not categorized:**
+## General
 - [Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - [Abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming))
 - [Fail-fast](https://en.wikipedia.org/wiki/Fail-fast)
@@ -23,7 +11,33 @@
 - [You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
 
-**Python programming principles ([Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python)):**
+## Principles Of Object Oriented Design
+### SOLID
+- [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+- [Open/closed principle](https://en.wikipedia.org/wiki/Open/closed_principle)
+- [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+- [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+- [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+
+### Package cohesion
+- [Reuse Release Equivalence Principle](http://wiki.c2.com/?ReuseReleaseEquivalencePrinciple)
+- [Common Closure Principle](http://wiki.c2.com/?CommonClosurePrinciple)
+- [Common Reuse Principle](http://wiki.c2.com/?CommonReusePrinciple)
+
+### Package coupling
+- [Acyclic Dependencies Principle](http://wiki.c2.com/?AcyclicDependenciesPrinciple)
+- [Stable Dependencies Principle](http://wiki.c2.com/?StableDependenciesPrinciple)
+- [Stable Abstractions Principle](http://wiki.c2.com/?StableAbstractionsPrinciple)
+
+### Other
+- [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+- [Inversion of control](https://en.wikipedia.org/wiki/Inversion_of_control)
+- [Principle of least knowledge (Law of Demeter)](https://en.wikipedia.org/wiki/Law_of_Demeter)
+- [Single Choice Principle](http://wiki.c2.com/?SingleChoicePrinciple)
+- [Information hiding](http://wiki.c2.com/?InformationHiding)
+
+
+## Python programming principles ([Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python))
 - Beautiful is better than ugly
 - Explicit is better than implicit
 - Simple is better than complex
