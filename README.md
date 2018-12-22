@@ -9,6 +9,7 @@
 - [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 - [Uniform access principle](https://en.wikipedia.org/wiki/Uniform_access_principle)
 - [You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- [Premature optimization is the root of all evil](https://stackify.com/premature-optimization-evil/)
 
 
 ## Principles Of Object Oriented Design
