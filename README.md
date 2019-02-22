@@ -31,7 +31,6 @@
 - [Stable Abstractions Principle](http://wiki.c2.com/?StableAbstractionsPrinciple)
 
 ### Other
-- [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
 - [Inversion of control](https://en.wikipedia.org/wiki/Inversion_of_control)
 - [Principle of least knowledge (Law of Demeter)](https://en.wikipedia.org/wiki/Law_of_Demeter)
 - [Single Choice Principle](http://wiki.c2.com/?SingleChoicePrinciple)
